@@ -1,0 +1,5 @@
+name: AokoMoney
+author: AokoAsami199
+api: 4.0.0
+version: 1.0
+main: AokoMoney\Main
