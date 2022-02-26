@@ -13,6 +13,7 @@ use pocketmine\event\Listener;
 use pocketmine\event\entity\EntityDamageEvent;
 use pocketmine\event\entity\EntityDamageByEntityEvent;
 use onebone\economyapi\EconomyAPI;
+use cooldogedev\BedrockEconomy\BedrockEconomy;
 use pocketmine\item\Item;
 use pocketmine\event\player\{PlayerInteractEvent, PlayerItemHeldEvent, PlayerJoinEvent, PlayerChatEvent};
 use pocketmine\event\block\BlockBreakEvent;
